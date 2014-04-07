@@ -23,7 +23,7 @@ public class MainActivity extends ActionBarActivity {
 					.add(R.id.container, new PlaceholderFragment()).commit();
 		}
 		System.out.println("2222");
-		System.out.println("23333333322");
+		System.out.println("2333ddwdd3333322");
 	}
   
 	@Override
